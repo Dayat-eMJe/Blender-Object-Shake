@@ -4,13 +4,13 @@ import random
 
 bl_info = {"name": "Object Shake", 
             "category": "Animation", 
-            "author": "Tim Crellin (Thatimster)", 
+            "author": "Dayat eMJe (MPCMakers)", 
             "blender": (2,79,0), 
             "location": "3D Toolbar", 
             "description":"Adds randomly generated shaking to any object",
             "warning": "",
             "wiki_url":"", 
-            "tracker_url": "https://github.com/thatimster/object-shake", 
+            "tracker_url": "https://github.com/Dayat-eMJe/Blender-Object-Shake", 
             "version":(1,2)}
 
 shakeObjects = set()
